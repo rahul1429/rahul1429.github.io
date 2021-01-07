@@ -295,6 +295,9 @@ img {
 .skills__html {
   width: 80%;
 }
+.skills__mongo {
+  width: 80%;
+}
 .skills__css {
   width: 75%;
 }
